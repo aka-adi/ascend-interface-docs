@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+_build/
+generated/
+server.log
+server.pid
